@@ -1,0 +1,16 @@
+{
+    "name": "com.strangeland.rerun",
+    "version": "1.0.0",
+    "displayName": "ReRun",
+    "description": "A Unity package for the ReRun component used in StrangeLand.",
+    "unity": "2020.3",
+    "keywords": ["ReRun", "StrangeLand", "game","Replay"],
+    "author": {
+      "name": "StrangeLand Team",
+      "email": "support@strangeland.com",
+      "url": "https://github.com/Strange-Land/Rerun"
+    },
+    "dependencies": {
+    
+    }
+}
